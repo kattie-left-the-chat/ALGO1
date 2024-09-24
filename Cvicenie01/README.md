@@ -1,7 +1,5 @@
 # Cvičenie 1
-
----
-### Funkcie a postupnosti
+## Funkcie a postupnosti
 
 ---
 ### :grey_question: Doporučený úkol
