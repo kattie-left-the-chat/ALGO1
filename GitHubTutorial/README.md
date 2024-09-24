@@ -8,7 +8,7 @@
 
 ---
 ### :arrow_up_down: Naklonovanie remote repozitára predmetu
-- GitHub remote repozitár predmetu [ALGO1](https://github.com/kattie-left-the-chat/AL)
+- GitHub remote repozitár predmetu [ALGO1](https://github.com/kattie-left-the-chat/ALGO1)
   - Code -> Local -> HTTPS -> Copy url
   - ![clone2](https://github.com/user-attachments/assets/30a82992-facb-4c9a-a47a-3b712a75c2cc)
     - ---
