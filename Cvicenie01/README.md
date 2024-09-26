@@ -1,6 +1,5 @@
 # Cvičenie 1
 ### Funkcie a postupnosti
-[Cvicenie01 - Funkcie a postupnosti.pptx](Cvicenie01/Cvicenie01 - Funkcie a postupnosti.pptx)
 
 ---
 ### :grey_question: Doporučený úkol
