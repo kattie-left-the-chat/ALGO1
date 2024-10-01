@@ -6,7 +6,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 ---
 ### :date: Zoznam cvičení
 1. 24.9.2024 - [GitHub Tutorial](GitHubTutorial), [1. Cvičenie](Cvicenie01)
-2. 1.10.2024
+2. 1.10.2024 - [2. Cvičenie](Cvicenie02)
 3. 8.10.2024
 4. 15.10.2024
 5. 22.10.2024
