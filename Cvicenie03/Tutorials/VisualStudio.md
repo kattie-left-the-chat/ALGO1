@@ -27,7 +27,7 @@
 - Add -> Existing item
   - ![vs10](../../Additional/VS10.PNG)
   - ---
-- Vyberieme zdrojový súbor -> Add
+- Vyberieme zdrojový súbor, ktorý sme vložili do projektu -> Add
   - ![vs11](../../Additional/VS11.PNG)
   - ---
 - Zdrojový súbor zkompilujeme a spustíme (zelená šípka)
