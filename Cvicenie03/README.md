@@ -5,6 +5,7 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
 ---
 ### Ako riešiť príklady v C
 1. Môžte si vytvoriť nový zdrojový súbor s príponou .c a písať jednotlivé úlohy do main() bloku
+   - odporúčam ale nakuknúť do Pseudocode.c alebo Sablona.c aby ste videli ako sa definuje pole
   - ![mainC](../Additional/Priklad1Main.PNG)
   - ---
 2. Môžte použiť predpripravenú šablónu Pseudocode.c alebo Sablona.c (Sablona.c je vyčistená od ukážky pseudokódu a obsahuje iba príklady) a písať jednotlivé úlohy ako funkcie
