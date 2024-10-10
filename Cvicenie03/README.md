@@ -16,6 +16,7 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
 
 ---
 ### Ako riešiť príklady v Pythone
+- Visual Studio Code pre Python - [Visual Studio Code Tutorial - Python](Tutorials/VisualStudioCode.md)
 1. Môžete si vytvoriť nový zdrojový súbor s príponou .py a písať jednotlivé úlohy do skriptu pod seba
    - odporúčam ale nakuknúť do Pseudocode.py alebo Sablona.py aby ste videli ako sa definuje pole
   - ![mainPy](../Additional/VSC01.PNG)
