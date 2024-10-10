@@ -6,7 +6,7 @@
 - skontrolujte či máte nainštalovaný Python, môžete to zistiť tak že v príkazovom riadku zadáte "python --version" alebo "python3 --version"
   - ![vsc03](../../Additional/VSC03.PNG)
   - ---
-- Ak nemáte nainštalovaný Python stiahnite si ho a nainštalujte - (Python.org)[https://www.python.org/]
+- Ak nemáte nainštalovaný Python stiahnite si ho a nainštalujte - [Python.org](https://www.python.org/)
 
 ---
 ### Konfigurácia VS Code
