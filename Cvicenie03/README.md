@@ -9,7 +9,7 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
    - odporúčam ale nakuknúť do Pseudocode.c alebo Sablona.c aby ste videli ako sa definuje pole
   - ![mainC](../Additional/Priklad1Main.PNG)
   - ---
-2. Môžte použiť predpripravenú šablónu Pseudocode.c alebo Sablona.c (Sablona.c je vyčistená od ukážky pseudokódu a obsahuje iba príklady) a písať jednotlivé úlohy ako funkcie
+2. Môžte použiť predpripravenú šablónu Sablona.c (Sablona.c je vyčistená od ukážky pseudokódu a obsahuje iba príklady) a písať jednotlivé úlohy ako funkcie
   - ako pridať zdrojový kód do projektu vo Visual Studiu - [Visual Studio Tutorial - C](Tutorials/VisualStudio.md)
   - ![FuncC](../Additional/Priklad1Func.PNG)
 
