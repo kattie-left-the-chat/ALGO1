@@ -25,6 +25,8 @@ TO BE ADDED
 ---
 ### :envelope: Spôsob odovzdávania úkolov
 Emailom na adresu katarina.olejkova01@upol.cz s predmetom ALGO1 - Cvicenie03
+
+
 S prílohami:
 - Pre odovzdanie pseudokódov môžete poslať napr. fotku s riešením, texťák atď..
 - Pre odovzdanie kódu posielajte iba zdrojové súbory s príponou .c/.py (neodovzdávajte celé projekty) 
