@@ -32,11 +32,11 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
    - ---
 2. Zapíšte algoritmus PocetLichychASudych(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C/Pythone
    - Pre zadané pole A[0..n-1] spočítajte koľko obsahuje lichých a sudých čísel
-   - pozn. A[0..n-1] - pole, n - počet prvkov poľa
+   - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
    - ---
 3. Zapíšte algoritmus MinMaxRozdiel(A[0..n-1], n) (A[0..n-1] - pole, n - počet prvkov poľa) pomocou pseudokódu a naprogramujte ho v C/Pythone
    - Pre zadané pole A[0..n-1] spočítajte rozdiel medzi jeho maximálnym a minimálnym prvkov
-   - pozn. A[0..n-1] - pole, n - počet prvkov poľa
+   - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
 
 
 ---
