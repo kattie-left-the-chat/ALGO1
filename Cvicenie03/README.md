@@ -34,7 +34,7 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
    - Pre zadané pole A[0..n-1] spočítajte koľko obsahuje lichých a sudých čísel
    - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
    - ---
-3. Zapíšte algoritmus MinMaxRozdiel(A[0..n-1], n) (A[0..n-1] - pole, n - počet prvkov poľa) pomocou pseudokódu a naprogramujte ho v C/Pythone
+3. Zapíšte algoritmus MinMaxRozdiel(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C/Pythone
    - Pre zadané pole A[0..n-1] spočítajte rozdiel medzi jeho maximálnym a minimálnym prvkov
    - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
 
