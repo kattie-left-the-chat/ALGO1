@@ -27,14 +27,14 @@ viz Cvicenie03 - Slozitost algoritmov.pptx/.pdf
 
 ---
 ### :grey_question: Doporučený úkol
-1. Zapíšte algoritmus Znamka(n) pomocou pseudokódu a naprogramujte ho v C/Pythone
+1. Zapíšte algoritmus Znamka(n) pomocou pseudokódu a naprogramujte ho v C alebo Pythone
    - Pre zadaný počet bodov od 0 do 100, vypíšte známku. Ak je počet bodov 100-90 známka bude "A", 89-80 známka "B", 79-70 známka "C", 69-60 známka "D", 59-50 známka "E", 49-0 známka "F"
    - ---
-2. Zapíšte algoritmus PocetLichychASudych(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C/Pythone
+2. Zapíšte algoritmus PocetLichychASudych(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C alebo Pythone
    - Pre zadané pole A[0..n-1] spočítajte koľko obsahuje lichých a sudých čísel
    - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
    - ---
-3. Zapíšte algoritmus MinMaxRozdiel(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C/Pythone
+3. Zapíšte algoritmus MinMaxRozdiel(A[0..n-1], n) pomocou pseudokódu a naprogramujte ho v C alebo Pythone
    - Pre zadané pole A[0..n-1] spočítajte rozdiel medzi jeho maximálnym a minimálnym prvkov
    - pozn. vstup: A[0..n-1] - pole, n - počet prvkov poľa
 
