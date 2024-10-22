@@ -23,7 +23,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 ### :trophy: Zápočet
 - Aktívna účasť na cvičení.
 - Absencia max 25% (3 cvičenia).
-- Získanie 60% bodov z písomného testu a zápočtového úkolu.
+- Získanie 60% bodov z písomného testu a zápočtového úkolu (implementácia).
 - Termíny upresním v priebehu semestra.
 
 ---
