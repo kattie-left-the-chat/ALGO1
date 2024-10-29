@@ -10,7 +10,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 3. 8.10.2024 - [3. Cvičenie](Cvicenie03), [Visual Studio Tutorial - C](Cvicenie03/Tutorials/VisualStudio.md), [Visual Studio Code Tutorial - Python](Cvicenie03/Tutorials/VisualStudioCode.md)
 4. 15.10.2024 - [4. Cvičenie](Cvicenie04)
 5. 22.10.2024 - [5. Cvičenie](Cvicenie05), [Pseudokody - vyriešené úlohy](Pseudokody)
-6. 29.10.2024
+6. 29.10.2024 - [6. Cvičenie](Cvicenie06)
 7. 5.11.2024
 8. 12.11.2024
 9. 19.11.2024
