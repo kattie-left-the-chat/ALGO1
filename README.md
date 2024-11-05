@@ -11,7 +11,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 4. 15.10.2024 - [4. Cvičenie](Cvicenie04)
 5. 22.10.2024 - [5. Cvičenie](Cvicenie05), [Pseudokody - vyriešené úlohy](Pseudokody)
 6. 29.10.2024 - [6. Cvičenie](Cvicenie06)
-7. 5.11.2024
+7. 5.11.2024 - [7. Cvičenie](Cvicenie07)
 8. 12.11.2024
 9. 19.11.2024
 10. 26.11.2024
