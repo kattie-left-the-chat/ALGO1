@@ -2,7 +2,7 @@
 ### Zoznam cvičení
 ### :date: Zoznam cvičení
 9. 19.11.2024 - Cvičná Zápočtová písomka - budeme riešiť na hodine, ďalej preberieme Merge-Sort
-   - v rovnaký týždeň (predpokladám stredu 20.11.) vyvesím zadanie implementačného zápočtového úkolu, budete mať cca mesiac na vyriešenie - deadline ale uvediem neskôr spolu so zadaním
+   - v rovnaký týždeň (predpokladám stredu 20.11.) vyvesím zadanie implementačného zápočtového úkolu, budete mať cca mesiac na vyriešenie - presný deadline ale uvediem spolu so zadaním
 10. 26.11.2024 - Zápočtová písomka
 11. 3.12.2024
 12. 10.12.2024
