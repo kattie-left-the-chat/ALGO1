@@ -11,6 +11,7 @@
 
 ---
 ### :grey_question: Obsah Zápočtovej písomky
+- Maximum bodov: 10
 1. Pre zadaný problém navrhnite algoritmus a zapíšte ho pomocou pseudokódu
 2. Určite aký problém rieši algoritmus zadaný nejakým pseudokódom
 3. Príklady na O-notace, určiť či platia nejaké asymptotické meze pre zadanú časovú zložitosť
@@ -19,5 +20,6 @@
 
 ---
 ### :grey_question: Obsah Implementačného úkolu
+- Maximum bodov: 10
 - program, ktorý bude pozostávať z niektorých triediacich algoritmov + niečo naviac (tí ktorí programovali triediace algoritmy priebežne, tak si uľahčili prácu)
 - konkrétne zadanie bude vyvesené v rovnaký týždeň ako budeme mať 9. cvičenie
