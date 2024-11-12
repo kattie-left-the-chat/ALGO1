@@ -12,19 +12,19 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 5. 22.10.2024 - [5. Cvičenie](Cvicenie05), [Pseudokody - vyriešené úlohy](Pseudokody)
 6. 29.10.2024 - [6. Cvičenie](Cvicenie06)
 7. 5.11.2024 - [7. Cvičenie](Cvicenie07)
-8. 12.11.2024
+8. 12.11.2024 - [8. Cvičenie](Cvicenie08), [Plán Zápočtu](ZapocetPlan)
 9. 19.11.2024
-10. 26.11.2024
+10. 26.11.2024 - Zápočtová písomka
 11. 3.12.2024
 12. 10.12.2024
-13. 17.12.2024 - Zápočtový týždeň
+13. 17.12.2024 - Zápočtový týždeň, Zápočtová písomka - opravný termín
 
 ---
 ### :trophy: Zápočet
+- [Plán Zápočtu](ZapocetPlan)
 - Aktívna účasť na cvičení.
 - Absencia max 25% (3 cvičenia).
 - Získanie 60% bodov z písomného testu a zápočtového úkolu (implementácia).
-- Termíny upresním v priebehu semestra.
 
 ---
 ### :mailbox: Kontakt
