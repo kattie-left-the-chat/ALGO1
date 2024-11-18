@@ -13,7 +13,7 @@ viz Pseudokody - Casova Slozitost.pptx/.pdf
 ### :grey_question: Doporučený úkol
 1. Zapíšte algoritmus PocetDelitelnych5(A[0..n-1], n) pomocou pseudokódu:
    - vstup: A[0..n-1] - pole prirodzených čísel, n - počet prvkov poľa
-   - výstup: počet čísel z poľa, ktoré sú celočíselne deliteľných 5 (return nie print)
+   - výstup: počet čísel z poľa, ktoré sú celočíselne deliteľné 5 (return nie print)
    - príklad:
      - vstup: A = [2, 5, 8, 1, 20, 10, 11, 6], n = 8
      - výstup: 3 (lebo 5, 20, 10 sú čísla deliteľné 5)
