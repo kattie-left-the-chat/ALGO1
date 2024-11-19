@@ -13,7 +13,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 6. 29.10.2024 - [6. Cvičenie](Cvicenie06)
 7. 5.11.2024 - [7. Cvičenie](Cvicenie07)
 8. 12.11.2024 - [8. Cvičenie](Cvicenie08), [Plán Zápočtu](ZapocetPlan)
-9. 19.11.2024
+9. 19.11.2024 - [9. Cvičenie](Cvicenie09)
 10. 26.11.2024 - Zápočtová písomka
 11. 3.12.2024
 12. 10.12.2024
