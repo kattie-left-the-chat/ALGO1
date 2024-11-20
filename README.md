@@ -25,6 +25,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 - Aktívna účasť na cvičení.
 - Absencia max 25% (3 cvičenia).
 - Získanie 60% bodov (12b) z písomného testu (10b) a zápočtového úkolu (implementácia) (10b).
+- [Zápočtový úkol](ZapoctovyUkol)
 
 ---
 ### :mailbox: Kontakt
