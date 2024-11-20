@@ -52,3 +52,8 @@
    - n<sup>1/4</sup>
    - 4<sup>n</sup>
    - n<sup>n</sup>
+- ---
+
+
+### :mailbox: Kontakt
+V prípade akýchkoľvek dotazov ohľadom zápočtového úkolu ma neváhajte kontaktovať na katarina.olejkova01@upol.cz
