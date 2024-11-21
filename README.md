@@ -24,7 +24,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 - [Plán Zápočtu](ZapocetPlan)
 - Aktívna účasť na cvičení.
 - Absencia max 25% (3 cvičenia).
-- Získanie 60% bodov (12b) z písomného testu (10b) a zápočtového úkolu (10b).
+- Získanie 60% bodov (12b) zo zápočtovej písomky (10b) a zápočtového úkolu (10b).
 - :exclamation: [Zápočtový úkol](ZapoctovyUkol)
 - [Zápočtová písomka - Cvičná](Cvicenie09)
 
