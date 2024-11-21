@@ -14,7 +14,7 @@ viz Cvicenie09 - MergeSort.pptx/.pdf
 
 ---
 ### :envelope: Spôsob odovzdávania úkolov
-V prípade, že by ste chceli feedback k vašemu riešeniu či simulácie algoritmu, môžete svoje riešenie zaslať v tejto podobe:
+V prípade, že by ste chceli feedback k vašemu riešeniu simulácie algoritmu, môžete svoje riešenie zaslať v tejto podobe:
 
 - Email: katarina.olejkova01@upol.cz
 - Predmet: ALGO1 - Cvicenie09
