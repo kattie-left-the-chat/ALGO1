@@ -21,6 +21,8 @@
      - insertion_sort_with_counting(pole, poradi)
      - merge_sort_with_counting(pole, poradi)
      - merge_insertion_sort_with_counting(pole, poradi, mezni_velikost)
+
+- DODATEČNÉ INFORMACE: u insert sortu v C nemusí na počet porovnání stačit typ int, klidně jako návratovou hodnotu u procedur v C použijte long long.
  
 - Funkce **setřídí** dodané pole odpovídajícím algoritmem a přitom **spočítají, kolik porovnání dvou prvků** z pole algoritmus provedl.
 - Výslednou hodnotu funkce vrátí volajícímu. 
