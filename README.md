@@ -14,8 +14,8 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 7. 5.11.2024 - [7. Cvičenie](Cvicenie07)
 8. 12.11.2024 - [8. Cvičenie](Cvicenie08), [Plán Zápočtu](ZapocetPlan)
 9. 19.11.2024 - [9. Cvičenie](Cvicenie09), [Simulácie Algoritmov - vyriešené úlohy](Simulace), [O-Notace a Rekurence - vyriešené úlohy](ONotaceARekurence), [Pseudokody - Cvičné príklady](Pseudokody)
-10. 26.11.2024 - :exclamation: Zápočtová písomka
-11. 3.12.2024
+10. 26.11.2024 - :exclamation: Zápočtová písomka, [Zápočtová písomka - Výsledky](ZapoctovaPisomkaVysledky)
+11. 3.12.2024 - [11. Cvičenie](Cvicenie11)
 12. 10.12.2024
 13. 17.12.2024 - Zápočtový týždeň, Zápočtová písomka - opravný termín
 
