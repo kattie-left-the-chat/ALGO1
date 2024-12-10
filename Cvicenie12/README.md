@@ -7,7 +7,7 @@ viz Cvicenie12 - CountingSort a RadixSort.pptx/.pdf
 ### :grey_question: Doporučený úkol
 - Simulácia algoritmu
   - Simulujte kroky algoritmu CountingSort na postupnosti A = [9, 1, 3, 6, 0, 1, 9, 0]
-  - Simulujte kroky algoritmu RadixSort na postupnosti A = TO DO
+  - Simulujte kroky algoritmu RadixSort na postupnosti A = [130, 111, 212, 321, 330], môžete si vybrať ľubovolný stabilný triediaci algoritmus
 
 
 ---
@@ -24,3 +24,4 @@ V prípade, že by ste chceli feedback k vašemu riešeniu simulácie algoritmu,
 ### :bulb: Užitočné odkazy
 - [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
 - [Learn Counting Sort](https://www.youtube.com/watch?v=OKd534EWcdk)
+- [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
