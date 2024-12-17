@@ -17,7 +17,7 @@ Všetky potrebné materiály z cvičení nájdete v tomto repozitári.
 10. 26.11.2024 - :exclamation: Zápočtová písomka, [Zápočtová písomka - Výsledky](ZapoctovaPisomkaVysledky)
 11. 3.12.2024 - [11. Cvičenie](Cvicenie11)
 12. 10.12.2024 - [12. Cvičenie](Cvicenie12)
-13. 17.12.2024 - Zápočtový týždeň, Zápočtová písomka - opravný termín
+13. 17.12.2024 - [13. Cvičenie](Cvicenie13), Zápočtový týždeň, Zápočtová písomka - opravný termín
 
 ---
 ### :trophy: Zápočet
